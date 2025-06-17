@@ -293,7 +293,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="awarness/awarness_pic4.jpeg" alt="Awareness Event">
+                    <img src="Awarness/awarness_pic4.jpeg" alt="Awareness Event">
                     <div class="card-content">
                         <h3>First Aid Awareness for Students</h3>
                         <p>Stay calm and act fast—know how to assist someone who falls sick until help arrives!</p>
