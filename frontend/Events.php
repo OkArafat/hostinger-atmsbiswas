@@ -330,7 +330,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="Fish/fish_pic2.jpeg" alt="Winterfest Event">
+                    <img src="FISH/fish_pic2.jpeg" alt="Winterfest Event">
                     <div class="card-content">
                         <h3>Field Day Celebration to Support Farmers</h3>
                         <p>We celebrated Field Day to educate farmers about sustainable fish farming, crop management,
