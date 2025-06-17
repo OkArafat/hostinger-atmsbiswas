@@ -265,7 +265,7 @@
             <h2>Awareness Events</h2>
             <div class="card-grid">
                 <div class="card">
-                    <img src="awarness/awarness_pic1.jpeg" alt="Awareness Event">
+                    <img src="Awarness/awarness_pic1.jpeg" alt="Awareness Event">
                     <div class="card-content">
                         <h3>Disability Awareness Campaign</h3>
                         <p>Spreading Inclusion & Empowerment.</p>
