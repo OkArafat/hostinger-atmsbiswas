@@ -272,7 +272,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="awarness/awarness_pic2.jpeg" alt="Awareness Event">
+                    <img src="Awarness/awarness_pic2.jpeg" alt="Awareness Event">
                     <div class="card-content">
                         <h3>Anti-Corruption Campaign</h3>
                         <p>Join the fight against corruption. Together, we can build a transparent and just society!</p>
