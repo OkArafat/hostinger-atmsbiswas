@@ -286,7 +286,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="awarness/awarness_pic5.jpeg" alt="Awareness Event">
+                    <img src="Awarness/awarness_pic5.jpeg" alt="Awareness Event">
                     <div class="card-content">
                         <h3>Fire Safety Awareness for Students</h3>
                         <p>Know the steps to stay safe when fire strikes, stay calm, exit quickly and call for help.</p>
