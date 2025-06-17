@@ -339,7 +339,7 @@
                 </div>
 
                 <div class="card">
-                    <img src="Fish/fish_pic1.jpeg" alt="Winterfest Event">
+                    <img src="FISH/fish_pic1.jpeg" alt="Winterfest Event">
                     <div class="card-content">
                         <h3>Celebrating Nutrition Day with Village Communities</h3>
                         <p>We are celebrating Nutrition Day with the village community, promoting healthy eating and
