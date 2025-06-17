@@ -273,7 +273,7 @@
 
             <div class="card-grid">
                 <div class="card">
-                    <img src="fish&redy/ABS_07.JPG" alt="Training">
+                    <img src="fish&redy/ABS_7.JPG" alt="Training">
                     <div class="card-content">
                         <h3>Training for Fishermen</h3>
                         <p>Our program begins with comprehensive training sessions designed to enhance the skills and
